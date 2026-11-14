@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: |cffffcc00Quest Starter|r
+## Notes: When a quest-starting item lands in your bags, one click (or a key) starts the quest and it's accepted for you.
+## Author: Kaeldrom
+## Version: 1.0.0
+## SavedVariables: QuestStarterDB
+## IconTexture: Interface\ContainerFrame\UI-Icon-QuestBang
+
+QuestStarter.lua
+QuestStarter_UI.lua

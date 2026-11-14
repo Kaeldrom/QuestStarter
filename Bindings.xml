@@ -1,0 +1,4 @@
+<Bindings>
+	<Binding name="CLICK QuestStarterButton:LeftButton" header="QUESTSTARTER" category="ADDONS">
+	</Binding>
+</Bindings>

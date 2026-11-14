@@ -1,0 +1,7 @@
+package-as: QuestStarter
+
+ignore:
+  - tests
+  - README.md
+  - .github
+  - .gitignore
